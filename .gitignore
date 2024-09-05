@@ -1,5 +1,6 @@
 # 파일 제외
 PE_Loader/sample1/
+PE_Loader/sample2/
 
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio
